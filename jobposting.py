@@ -18,8 +18,6 @@ from selenium.common.exceptions import NoSuchElementException
 
 joblist=[]
 descriptionlist=[]
-datelist=[]
-joblinklist=[]
 finallist=[]
 jobdetailslist=[]
 listofindex=[]
@@ -111,7 +109,7 @@ def send_email(list):
         smtp_username = 'job.notification.bot@gmail.com'
         smtp_password = 'cnmn jxsm lkim xurj'
         sender_email = 'job.notification.bot@gmail.com'
-        receiver_email = 'ohik2005@gmail.com'
+        receiver_email = 
 
     # Set up the MIMEText object
 
