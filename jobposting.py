@@ -110,6 +110,7 @@ def send_email(list):
         smtp_password = 'cnmn jxsm lkim xurj'
         sender_email = 'job.notification.bot@gmail.com'
 
+
     # Set up the MIMEText object
 
         body = "Subject: New " + job_ + " position in " + location
